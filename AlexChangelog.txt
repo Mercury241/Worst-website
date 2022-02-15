@@ -1,0 +1,2 @@
+Added background image & changed colour scheme 
+Changed images to url instead of downloaded
